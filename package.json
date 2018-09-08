@@ -11,5 +11,9 @@
     "url": "https://github.com/Daniel-Cross/note-app.git"
   },
   "author": "Daniel Cross",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "nodemon": "^1.18.4"
+  }
 }
